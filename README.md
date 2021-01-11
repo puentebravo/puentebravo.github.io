@@ -2,7 +2,7 @@
 
 ## Description
 
-A responsive, multi-page portfolio made using HTML, CSS, and Bootstrap's CSS/JS library. Consisting of a home/about me page, a portfolio, and a contact page, the site is fully responsive, adapting to changes in screen size and device. Thanks to bootstrap, this is done with a minimum of custom CSS, while also adhering to a standardized grid layout.
+A responsive, multi-page portfolio made using HTML, CSS, Bootstrap's CSS/JS library, and JQUERY. Consisting of a home/about me page, a portfolio, and a contact page, the site is fully responsive, adapting to changes in screen size and device. Thanks to bootstrap, this is done with a minimum of custom CSS, while also adhering to a standardized grid layout.
 
 ## Features:
 
@@ -11,6 +11,7 @@ A responsive, multi-page portfolio made using HTML, CSS, and Bootstrap's CSS/JS 
 - Semantic HTML used where applicable for clarity
 - Custom CSS used sparingly, making for a clean, easily navigable styling sheet.
 - Site abides by accessibility standards
+- Dynamically placed HTML content using JS lightens HTML footprint
 
 ## Screenshots:
 
@@ -22,7 +23,7 @@ A responsive, multi-page portfolio made using HTML, CSS, and Bootstrap's CSS/JS 
 
 ## Link to Deployed Site:
 
-![Deployed Site](https://puentebravo.github.io)
+[Deployed Site](https://puentebravo.github.io)
 
 ## Credits:
 
