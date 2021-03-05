@@ -20,6 +20,14 @@ $(document).ready(function () {
       code: "HTML/CSS/Javascript/Bootstrap/JSON",
     },
     {
+      name: "From Dad To Bad",
+      github: "https://github.com/puentebravo/project2",
+      img: "",
+      deployed: "https://aqueous-meadow-09339.herokuapp.com/",
+      description: "From Dad to Bad is your one stop shop for all things dad jokes, puns, and movie one liners. Whether it elicits laughter, tears, groaning, or a mixture of all three, From Dad to Bad has it all!",
+      code: "HTML/CSS/Handlebars/SQL/Sequelize/JavaScript/JSON/Bootstrap"
+    },
+    {
       name: "Farmwise Fresh Eats",
       github: "https://github.com/ericfreyer/Farmwise_FreshEats",
       img: "./assets/images/pageDemo.gif",
