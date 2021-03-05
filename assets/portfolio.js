@@ -20,12 +20,20 @@ $(document).ready(function () {
       code: "HTML/CSS/Javascript/Bootstrap/JSON",
     },
     {
+      name: "Burgatory",
+      github: "https://github.com/puentebravo/Burgatory",
+      img: "",
+      deployed: "https://mysterious-fjord-09180.herokuapp.com/",
+      description: "Burgatory is your one stop digital ordering interface. Hand crafted for Burgatory, a proudly rustic dining establishment, the app allows a customer to create an order, mark it devoured, then trash it. Responses and information are logged to a SQL database, making it easier than ever to keep track of what is being eaten. Powered by Javascript, node, handlebars, and SQL, Burgatory is clean, powerful, delicious fun.",
+      code: "HTML/CSS/Handlebars/SQL/JavaScript/JSON/Bootstrap/Node.js"
+    },
+    {
       name: "From Dad To Bad",
       github: "https://github.com/puentebravo/project2",
       img: "",
       deployed: "https://aqueous-meadow-09339.herokuapp.com/",
       description: "From Dad to Bad is your one stop shop for all things dad jokes, puns, and movie one liners. Whether it elicits laughter, tears, groaning, or a mixture of all three, From Dad to Bad has it all!",
-      code: "HTML/CSS/Handlebars/SQL/Sequelize/JavaScript/JSON/Bootstrap"
+      code: "HTML/CSS/Handlebars/SQL/Sequelize/JavaScript/JSON/Bootstrap/Node.js"
     },
     {
       name: "Farmwise Fresh Eats",
