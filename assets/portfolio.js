@@ -60,12 +60,12 @@ $(document).ready(function () {
     cardEl.append(subRow);
     subRow.append(gitBtn);
     gitBtn.attr("href", portArray[i].github);
-    gitBtn.addClass("col-lg-3 cardBtn");
+    gitBtn.addClass("col-lg-12 cardBtn");
     gitBtn.text("Github");
     gitBtn.append(gitIcon);
     subRow.append(blankSubCol);
     subRow.append(webBtn);
-    webBtn.addClass("col-lg-3 cardBtn");
+    webBtn.addClass("col-lg-12 cardBtn");
     webBtn.attr("href", portArray[i].deployed);
     webBtn.text("Deployed Page");
     webBtn.append(globeIcon);
