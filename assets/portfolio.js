@@ -1,5 +1,4 @@
 $(document).ready(function () {
-  console.log("linked!");
   const portArray = [
     {
       name: "Squall",
@@ -11,18 +10,9 @@ $(document).ready(function () {
       code: "HTML/CSS/Javascript/Bootstrap/JQUERY/JSON",
     },
     {
-      name: "codeQuiz",
-      github: "https://github.com/puentebravo/codeQuiz",
-      img: "./assets/images/demo.gif",
-      deployed: "https://puentebravo.github.io/codeQuiz/index.html",
-      description:
-        "An interactive, dynamic, fun way for programming students to test their knowledge of basic coding principals in a timed, multiple choice format. With a clean, easy to navigate interface, Code Quiz gives clear, live feedback to students as they progress, allowing them to compare their score to that of their peers once the game is done. Code Quiz is made using dynamic javascript and styled using Bootstrap, making it responsive across multiple devices.",
-      code: "HTML/CSS/Javascript/Bootstrap/JSON",
-    },
-    {
       name: "Burgatory",
       github: "https://github.com/puentebravo/Burgatory",
-      img: "",
+      img: "./assets/images/Burgatory.gif",
       deployed: "https://mysterious-fjord-09180.herokuapp.com/",
       description: "Burgatory is your one stop digital ordering interface. Hand crafted for Burgatory, a proudly rustic dining establishment, the app allows a customer to create an order, mark it devoured, then trash it. Responses and information are logged to a SQL database, making it easier than ever to keep track of what is being eaten. Powered by Javascript, node, handlebars, and SQL, Burgatory is clean, powerful, delicious fun.",
       code: "HTML/CSS/Handlebars/SQL/JavaScript/JSON/Bootstrap/Node.js"
@@ -30,19 +20,10 @@ $(document).ready(function () {
     {
       name: "From Dad To Bad",
       github: "https://github.com/puentebravo/project2",
-      img: "",
+      img: "./assets/images/Dadabase",
       deployed: "https://aqueous-meadow-09339.herokuapp.com/",
       description: "From Dad to Bad is your one stop shop for all things dad jokes, puns, and movie one liners. Whether it elicits laughter, tears, groaning, or a mixture of all three, From Dad to Bad has it all!",
       code: "HTML/CSS/Handlebars/SQL/Sequelize/JavaScript/JSON/Bootstrap/Node.js"
-    },
-    {
-      name: "Farmwise Fresh Eats",
-      github: "https://github.com/ericfreyer/Farmwise_FreshEats",
-      img: "./assets/images/pageDemo.gif",
-      deployed: "https://ericfreyer.github.io/Farmwise_FreshEats/",
-      description:
-        "The truth is out there; maintaining a healthy, fresh, balanced diet is vital to your overall health and wellbeing, and the fresher the ingredients in your food, the better. Buying from a Farmer's market delivers the one-two punch of not only being good for yourself, but for your community and the environment along with it. But finding a farmer's market isn't always easy. Enter Farmwise Fresh Eats. Asking only for your zip code, our easy to use and intuitive interface shows you markets in your area at a glance. Simply click on a market to plot its location on a map, see details on goods sold, and how early (and late!) they're open. Farmwise Fresh Eats draws directly from the USDA's database of registered markets, ensuring that the data you see is as up to date and accurate as can be.",
-      code: "HTML/CSS/Javascript/Materialize/JQUERY/JSON",
     },
   ];
 
