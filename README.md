@@ -1,38 +1,57 @@
-# Personal Portfolio
+# Portfolio ![](https://img.shields.io/badge/license-CCLv1.0-blue)
+  
+  ## Description 
+      
+  Made with Javascript and styled via bootstrap, this adaptive website serves as a showcase of my work so far as a developer.
 
-## Description
+  [You can view it here](https://puentebravo.github.io/)
+      
+  ## Table of Contents
+      
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [Contributing](#contributing)
+  * [Questions](#questions)
+  * [Tests](#tests)
+  * [License](#license)
+      
+      
+  ## Installation
+      
+  Navigate to the site, and use the navbar to look around. 
+      
+  ## Usage 
+      
+  Once on the website, you can view projects by clicking on their github and deployed buttons
+      
+  ![Screenshot](./assets/images/Screenshot.png)
+  ![Screenshot2](./assets/images/Portscreenshot.png)
 
-A responsive, multi-page portfolio made using HTML, CSS, Bootstrap's CSS/JS library, and JQUERY. Consisting of a home/about me page, a portfolio, and a contact page, the site is fully responsive, adapting to changes in screen size and device. Thanks to bootstrap, this is done with a minimum of custom CSS, while also adhering to a standardized grid layout.
+  ## Credits
+      
+  I'd be remiss if I didn't thank my study group and my Instructors at the Columbia Engineering Coding Bootcamp. Without the help and guidance of both, none of this would exist.
+      
+  ## Contributing
 
-## Features:
+  N/A
 
-- Adaptable, persistent navbar that expands for larger pages, then shrinks to a collapsable format once a certain breakpoint is reached, allowing for easy navigation on any device.
-- Standardized grid layout makes content easier to read
-- Semantic HTML used where applicable for clarity
-- Custom CSS used sparingly, making for a clean, easily navigable styling sheet.
-- Site abides by accessibility standards
-- Dynamically placed HTML content using JS lightens HTML footprint
+  ## Questions?
+  
+  Questions about this project can be directed to: 
+  - Github: /puentebravo
+  - Email: puentematos@gmail.com
 
-## Screenshots:
+  ## Tests
 
-![About Me part 1](assets/images/about1.png)
-![About Me Part 2](assets/images/about2.png)
-![Portfolio Part 1](assets/images/portfolio1.png)
-![Portfolio Part 2](assets/images/portfolio2.png)
-![Contact page](assets/images/contact1.png)
+  N/A
 
-## Link to Deployed Site:
+  ## License
+      
+  Content in this project is governed under the CCLv1.0 License. 
 
-[Deployed Site](https://puentebravo.github.io)
+  To read the license in its entirety, click here: [CCLv1.0](./LICENSE)
 
-## Credits:
-
-This project wouldn't be possible without the continued guidance of my Instructors at the Columbia University Coding Bootcamp. Profuse thanks are due to my awesome study group, whose assistance, peer review, and trouble shooting were critical to this project's success. We got this, y'all!
-
-## License:
-
-Content is governed by the Creative Commons Legal Code, spelled out in the included LICENSE file.
-
----
-
-Copyright [2020] [Charlie Puente]
+  -----------
+  
+  Copyright [2021] [Charlie Puente]
