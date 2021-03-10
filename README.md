@@ -23,7 +23,7 @@
       
   ## Usage 
       
-  Once on the website, you can view projects by clicking on their github and deployed buttons
+  Once on the website, you can view projects by clicking on their github and deployed buttons.
       
   ![Screenshot](./assets/images/Screenshot.png)
   ![Screenshot2](./assets/images/Portscreenshot.png)
