@@ -31,6 +31,7 @@ form {
   width: 100%;
   height: 60px;
   line-height: 60px;
+  color: white;
 }
 /*Styles the social media icons both in the footer and on the contact form*/
 .footButton {
