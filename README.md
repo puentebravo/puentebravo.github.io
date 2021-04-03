@@ -2,9 +2,9 @@
   
   ## Description 
       
-  Made with Javascript and styled via bootstrap, this adaptive website serves as a showcase of my work so far as a developer.
+  Made with React and styled via bootstrap, this adaptive website serves as a showcase of my work so far as a developer.
 
-  [You can view it here](https://puentebravo.github.io/)
+  [You can view it here](https://www.charliepuente.com)
       
   ## Table of Contents
       
@@ -48,9 +48,7 @@
 
   ## License
       
-  Content in this project is governed under the CCLv1.0 License. 
-
-  To read the license in its entirety, click here: [CCLv1.0](./LICENSE)
+  Please check the licenses for individual projects for license information. 
 
   -----------
   
