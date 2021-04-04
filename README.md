@@ -48,7 +48,7 @@
 
   ## License
       
-  Please check the licenses for individual projects for license information. 
+  All rights reserved. Please check individual project licenses for more information.
 
   -----------
   
