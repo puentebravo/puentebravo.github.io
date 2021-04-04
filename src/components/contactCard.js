@@ -20,10 +20,10 @@ function ContactCard() {
           </a>
           <br />
           <br />
-          <p className="lead">
+          {/* <p className="lead">
             Looking for a quick, to the point summary? Grab my resume below:
           </p>
-          <a href="assets/documents/charliepuentecv.pdf">CV Download (PDF)</a>
+          <a href="assets/documents/charliepuentecv.pdf">CV Download (PDF)</a> */}
 
           <hr class="my-4" />
         </div>
