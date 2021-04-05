@@ -1,11 +1,11 @@
 import React from "react";
-import projectList from "../utils/projects";
 
-function ProjectCard() {
+
+function ProjectCard({ projects, key}) {
   return (
     <div className="container" id="anchorEl">
-      {projectList.map((projects, index) => (
-        <div className="row">
+      
+        <div className="row" key={key}>
           <div className="col-lg-2"></div>
           <div className="card col-lg-8">
             <img className="card-img" alt="site demo" src={projects.img} />
@@ -31,7 +31,6 @@ function ProjectCard() {
             </div>
           </div>
         </div>
-      ))}
     </div>
   );
 }
