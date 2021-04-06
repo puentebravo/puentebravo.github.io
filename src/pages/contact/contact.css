@@ -1,3 +1,16 @@
 .contactIcon {
-    color: black;
-  }
+  color: black;
+}
+
+.cIcon {
+  padding: 5px;
+}
+
+.cardBtn {
+  margin-bottom: 10px;
+}
+
+.ninja {
+  height: 45vmax;
+  visibility: hidden;
+}
