@@ -5,8 +5,9 @@ function ContactCard() {
     <div className="container">
       <div className="row d-flex justify-content-center">
         <div className="card col-lg-8">
+          <div className="card-header">
           <h1 className="display-4">Get in touch!</h1>
-          <hr className="my-4" />
+          </div>
           <p className="lead">Follow me here:</p>
 
           <a
@@ -27,7 +28,7 @@ function ContactCard() {
             <p className="lead">
               Looking for a quick, to the point summary? Grab my resume below:
             </p>
-            <a className="btn btn-dark cardBtn" href="assets/documents/charliepuentecv.pdf">CV Download (PDF)</a>
+            <a className="btn btn-dark cardBtn" href="./documents/charliepuentecv.pdf">CV Download (PDF)</a>
           </div>
         </div>
       </div>
