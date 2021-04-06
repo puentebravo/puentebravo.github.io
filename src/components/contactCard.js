@@ -9,7 +9,10 @@ function ContactCard() {
           <hr className="my-4" />
           <p className="lead">Follow me here:</p>
 
-          <a className="btn btn-dark cardBtn" href="https://github.com/puentebravo">
+          <a
+            className="btn btn-dark cardBtn"
+            href="https://github.com/puentebravo"
+          >
             <i className="fab fa-github-square fa-lg cIcon"></i> Github
           </a>
           <a
@@ -20,13 +23,12 @@ function ContactCard() {
           </a>
           <br />
           <br />
-          <hr />
-          <p className="lead">
-            Looking for a quick, to the point summary? Grab my resume below:
-          </p>
-          <a href="assets/documents/charliepuentecv.pdf">CV Download (PDF)</a>
-
-          
+          <div className="card-footer text-center">
+            <p className="lead">
+              Looking for a quick, to the point summary? Grab my resume below:
+            </p>
+            <a className="btn btn-dark cardBtn" href="assets/documents/charliepuentecv.pdf">CV Download (PDF)</a>
+          </div>
         </div>
       </div>
     </div>
