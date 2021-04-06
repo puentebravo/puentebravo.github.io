@@ -6,9 +6,11 @@ import "./contact.css";
 
 function Contact() {
     return (
+        <div>
         <Header/>,
         <ContactCard/>,
         <Footer/>
+        </div>
     )
 }
 

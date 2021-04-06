@@ -6,9 +6,11 @@ import "./index.css";
 
 function Index() {
     return (
+        <div>
         <Header/>,
         <LeadCard/>,
         <Footer/>
+        </div>
     )
 }
 
