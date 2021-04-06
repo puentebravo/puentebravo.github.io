@@ -1,12 +1,13 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
     <div className="container.fluid">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a className="navbar-brand" href="index.html">
+        <Link className="navbar-brand" to="/">
           Charlie Puente
-        </a>
+        </Link>
         <button
           className="navbar-toggler"
           type="button"
@@ -20,21 +21,39 @@ function Header() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
-            <li className="nav-item active">
-              <a className="nav-link" href="index.html">
+            <li
+              className={
+                window.location.pathname === "/" ||
+                window.location.pathname === "/home"
+                  ? "nav-item active"
+                  : "nav-item"
+              }
+            >
+              <Link className="nav-link" to="/">
                 <i className="fas fa-id-card"></i> Home
-                <span className="sr-only">(current)</span>
-              </a>
+              </Link>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="portfolio.html">
+            <li
+              className={
+                window.location.pathname === "/portfolio"
+                  ? "nav-item active"
+                  : "nav-item"
+              }
+            >
+              <Link className="nav-link" to="/portfolio">
                 <i className="fas fa-atom"></i> Portfolio
-              </a>
+              </Link>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="contact.html">
+            <li
+              className={
+                window.location.pathname === "/contact"
+                  ? "nav-item active"
+                  : "nav-item"
+              }
+            >
+              <Link className="nav-link" to="/contact">
                 <i className="fas fa-id-badge"></i> Contact
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
