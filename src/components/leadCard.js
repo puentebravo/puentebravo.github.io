@@ -1,4 +1,5 @@
 import React from "react";
+import Galapagos from "../assets/images/Galapagos.jpg"
 
 function LeadCard() {
   return (
@@ -7,13 +8,13 @@ function LeadCard() {
         <div className="card col-lg">
           <img
             className="img-fluid mx-auto img-thumbnail"
-            src="../assets/images/galapagos.jpg"
+            src={Galapagos}
             alt="Photographing Frigate Birds in the Galapagos"
           />
           <p className="lead text-center text-muted">
             Charlie Puente | Photo credit: Maya Caballero
           </p>
-          <hr className="my-4" />
+          <hr/>
           <h1 className="display-4 text-center">
             Charlie Puente: Writing Stories and Code
           </h1>
