@@ -12,7 +12,7 @@ function ProjectCard({ projects, key}) {
             <h5 className="card-title text-center">{projects.name}</h5>
             <p className="card-text">{projects.description}</p>
             <p className="card-text text-muted text-center">
-              {projects.description}
+              {projects.code}
             </p>
             <hr />
             <div className="row">
