@@ -8,8 +8,8 @@ import "./contact.css";
 function Contact() {
     return (
         <div>
-        <Header/>,
-        <ContactCard/>,
+        <Header/>
+        <ContactCard/>
         <Spacer/>
         <Footer/>
         </div>

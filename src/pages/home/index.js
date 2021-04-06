@@ -7,8 +7,8 @@ import "./index.css";
 function Index() {
     return (
         <div>
-        <Header/>,
-        <LeadCard/>,
+        <Header/>
+        <LeadCard/>
         <Footer/>
         </div>
     )

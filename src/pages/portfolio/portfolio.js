@@ -8,7 +8,7 @@ import "./portfolio.css";
 function Portfolio() {
   return (
     <div>
-    <Header />,
+    <Header />
       <div className="container" id="anchorEl">
         {projectList.map((projects, index) => (
           <ProjectCard projects={projects} key={index} />
