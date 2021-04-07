@@ -10,6 +10,7 @@ function LeadCard() {
             className="img-fluid mx-auto img-thumbnail"
             src={Galapagos}
             alt="Photographing Frigate Birds in the Galapagos"
+            id="leadImg"
           />
           <p className="lead text-center text-muted">
             Charlie Puente | Photo credit: Maya Caballero
