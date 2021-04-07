@@ -1,14 +1,14 @@
 import React from "react";
 
-function ContactCard() {
+function ContactCard(props) {
   return (
     <div className="container">
       <div className="row d-flex justify-content-center">
-        <div className="card col-lg-8">
+        <div className="card col-lg-8" id={props.id}>
           <div className="card-header">
-          <h1 className="display-4">Get in touch!</h1>
+          <h1 className="display-4 text-center">Get in touch!</h1>
           </div>
-          <p className="lead">Follow me here:</p>
+          <p className="lead text-center">Follow me here:</p>
 
           <a
             className="btn btn-dark cardBtn"
