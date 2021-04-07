@@ -10,8 +10,6 @@
   margin-bottom: 10px;
 }
 
-.ninja {
-  height: 46vmax;
-  visibility: hidden;
+#contactCard {
+  margin-bottom: 57.7vh;
 }
-
