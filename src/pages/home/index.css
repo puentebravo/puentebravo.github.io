@@ -2,3 +2,8 @@
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
+#leadImg {
+  width: 100%;
+  max-width: 600px;
+}
