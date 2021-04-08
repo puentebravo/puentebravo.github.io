@@ -9,6 +9,15 @@ const projectList = [
     code: "HTML/CSS/Javascript/Bootstrap/JQUERY/JSON",
   },
   {
+    name: "OrgChart",
+    github: "https://github.com/puentebravo/OrgChart",
+    img: "./images/Orgchart.png",
+    deployed: "https://www.charliepuente.com/OrgChart/",
+    description:
+      "Employees are the bedrock of any business - your most precious resource, and your partners for success. No matter what size your operation, having a way to centrally store and access non-sensitive data about those working for you is essential. Enter OrgChart. Powered by React, this easily deployable, modular application allows you to pull from a database, sort, and search through your employee records quickly and easily.",
+    code: "HTML/CSS/Javascript/Bootstrap/React.js/Node.js/JSON",
+  },
+  {
     name: "Burgatory",
     github: "https://github.com/puentebravo/Burgatory",
     img: "./images/Burgatory.gif",
@@ -16,6 +25,24 @@ const projectList = [
     description:
       "Burgatory is your one stop digital ordering interface. Hand crafted for Burgatory, a proudly rustic dining establishment, the app allows a customer to create an order, mark it devoured, then trash it. Responses and information are logged to a SQL database, making it easier than ever to keep track of what is being eaten. Powered by Javascript, node, handlebars, and SQL, Burgatory is clean, powerful, delicious fun.",
     code: "HTML/CSS/Handlebars/SQL/JavaScript/JSON/Bootstrap/Node.js/Express",
+  },
+  {
+    name: "TCell",
+    github: "https://github.com/puentebravo/TCell",
+    img: "./images/Tcell.png",
+    deployed: "https://drive.google.com/file/d/1QqLvRhAWo2A6tQVcAiTBpV7cEJaXLM4B/view",
+    description:
+      "Powered by Node.js and Inquirer, TCELL is a Command Line Interface that allows teams to make a clean, professional organizational chart in minutes.",
+    code: "HTML/CSS/Javascript/Bootstrap/Node.js/JSON/Inquirer/Jest",
+  },
+  {
+    name: "ReadmeGen",
+    github: "https://github.com/puentebravo/ReadmeGen",
+    img: "./images/Readmegen.png",
+    deployed: "https://drive.google.com/file/d/1lVZJA35eUtbiLd5bZx4KlapMuClAhudb/view",
+    description:
+      "ReadmeGen was created to help simplify one of the most vital aspects of development; README documentation. Using Node.js and Inquirer, ReadmeGen uses a short battery of questions to fill out and format concisely written documentation.",
+    code: "Javascript/Node.js/Inquirer",
   },
   {
     name: "From Dad To Bad",
