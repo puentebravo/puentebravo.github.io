@@ -25,8 +25,8 @@
       
   Once on the website, you can view projects by clicking on their github and deployed buttons.
       
-  ![Screenshot](./assets/images/Screenshot.png)
-  ![Screenshot2](./assets/images/Portscreenshot.png)
+  ![Screenshot](src/assets/images/Screenshot.png)
+  ![Screenshot2](src/assets/images/Portscreenshot.png)
 
   ## Credits
       
