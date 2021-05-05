@@ -30,9 +30,7 @@ function LeadCard() {
             to places that may be on the verge of irreversible change.
           </p>
           <p className="lead text-center">
-            In late 2020, Charlie decided to learn to write for a machine
-            audience, and is currently studying programming at Columbia
-            University's School of Engineering.
+            After graduating from Columbia University's School of Engineering coding bootcamp, Charlie now enjoys writing for both machine and human audiences.
           </p>
         </div>
       </div>
