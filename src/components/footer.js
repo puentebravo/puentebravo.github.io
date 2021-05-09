@@ -4,7 +4,7 @@ function Footer() {
     return (
       <footer className="footer bg-dark">
         <div className="container">
-          <span className="text-left"> (©) 2020 Charlie Puente |</span>
+          <span className="text-muted text-center"> (©) 2020 Charlie Puente |</span>
         </div>
       </footer>
     );
