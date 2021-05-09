@@ -23,6 +23,12 @@ function ContactCard(props) {
             <i className="fab fa-linkedin fa-lg cIcon"></i>LinkedIn
           </a>
           <br />
+          <p className="lead text-center">...Or contact me directly at:</p>
+          <a
+            className="btn btn-dark cardBtn"
+            href="mailto:puentematos@gmail.com"
+          ><i className="fas fa-envelope-square fa-lg cIcon"></i>puentematos@gmail.com</a>
+          <br />
           <br />
           <div className="card-footer text-center">
             <p className="lead">
