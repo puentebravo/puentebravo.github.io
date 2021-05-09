@@ -1,5 +1,5 @@
 import React from "react";
-import Galapagos from "../assets/images/Galapagos.jpg"
+import Galapagos from "../assets/images/Galapagos.jpg";
 
 function LeadCard() {
   return (
@@ -15,7 +15,7 @@ function LeadCard() {
           <p className="lead text-center text-muted">
             Charlie Puente | Photo credit: Maya Caballero
           </p>
-          <hr/>
+          <hr />
           <h1 className="display-4 text-center">
             Charlie Puente: Writing Stories and Code
           </h1>
@@ -30,7 +30,9 @@ function LeadCard() {
             to places that may be on the verge of irreversible change.
           </p>
           <p className="lead text-center">
-            After graduating from Columbia University's School of Engineering coding bootcamp, Charlie now enjoys writing for both machine and human audiences.
+            After graduating from Columbia University's School of Engineering
+            coding bootcamp, Charlie now enjoys writing for both machine and
+            human audiences.
           </p>
         </div>
       </div>
