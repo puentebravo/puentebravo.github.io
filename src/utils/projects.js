@@ -9,13 +9,13 @@ const projectList = [
     code: "HTML/CSS/Javascript/Bootstrap/JQUERY/JSON",
   },
   {
-    name: "OrgChart",
-    github: "https://github.com/puentebravo/OrgChart",
-    img: "./images/Orgchart.png",
-    deployed: "https://www.charliepuente.com/OrgChart/",
+    name: "KeyGen 2.0",
+    github: "https://github.com/puentebravo/KeyGen-2.0",
+    img: "./images/keyGen.png",
+    deployed: "https://gentle-sea-23195.herokuapp.com/",
     description:
-      "Employees are the bedrock of any business - your most precious resource, and your partners for success. No matter what size your operation, having a way to centrally store and access non-sensitive data about those working for you is essential. Enter OrgChart. Powered by React, this easily deployable, modular application allows you to pull from a database, sort, and search through your employee records quickly and easily.",
-    code: "HTML/CSS/Javascript/Bootstrap/React.js/Node.js/JSON",
+      "Security is paramount on the modern web, and using a different password for each site and account you use is almost universally considered a best practice. Creating a strong password for each, however, can be time consuming. KeyGen allows for the fast, easy creation of passwords of almost any desireable length in less than a second.",
+    code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
   },
   {
     name: "Burgatory",
