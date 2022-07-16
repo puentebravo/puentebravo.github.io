@@ -5,8 +5,7 @@ function ProjectCard({ projects, key}) {
   return (
     <div className="container" id="anchorEl">
       
-        <div className="row" key={key}>
-          <div className="col-lg-2"></div>
+        <div className="row justify-content-center" key={key}>
           <div className="card col-lg-8">
             <img className="card-img" alt="site demo" src={projects.img} />
             <h5 className="card-title text-center">{projects.name}</h5>
