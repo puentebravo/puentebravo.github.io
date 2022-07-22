@@ -12,13 +12,7 @@ body {
   /* margin-bottom: 60px; */
 }
 
-.display-4,
-.lead,
-.card-text,
-.card-title,
-form {
-  color: black;
-}
+
 
 .footer {
   position: sticky;
