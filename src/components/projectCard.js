@@ -6,7 +6,7 @@ function ProjectCard({ projects, key}) {
     <div className="container" id="anchorEl">
       
         <div className="row justify-content-center" key={key}>
-          <div className="card col-lg-8">
+          <div className="card bg-dark text-white col-lg p-4 border border-light">
             <img className="card-img" alt="site demo" src={projects.img} />
             <h5 className="card-title text-center">{projects.name}</h5>
             <p className="card-text">{projects.description}</p>
@@ -16,16 +16,16 @@ function ProjectCard({ projects, key}) {
             <hr />
             <div className="row">
               <a
-                className="btn btn-dark col-lg-12 cardBtn"
+                className="btn btn-warning col-lg-12 cardBtn"
                 href={projects.github}
               >
-                Github<i className="fas fa-globe-asia cIcon"></i>
+                Deployed<i className="fas fa-globe-asia cIcon"></i>  
               </a>
               <a
-                className="btn btn-dark col-lg-12 cardBtn"
+                className="btn btn-warning col-lg-12 cardBtn"
                 href={projects.deployed}
               >
-                Deployed<i className="fab fa-github cIcon"></i>
+                Github<i className="fab fa-github cIcon"></i>
               </a>
             </div>
           </div>
@@ -35,3 +35,6 @@ function ProjectCard({ projects, key}) {
 }
 
 export default ProjectCard; 
+
+// Github<i className="fas fa-globe-asia cIcon"></i>
+//  Deployed<i className="fab fa-github cIcon"></i>  
