@@ -5,9 +5,9 @@ function LeadCard() {
   return (
     <div className="container">
       <div className="row">
-        <div className="card col-lg">
+        <div className="card bg-dark text-white col-lg border border-light">
           <img
-            className="img-fluid mx-auto img-thumbnail"
+            className="img-fluid mx-auto img-thumbnail mt-2"
             src={Galapagos}
             alt="Photographing Frigate Birds in the Galapagos"
             id="leadImg"
@@ -20,19 +20,16 @@ function LeadCard() {
             Charlie Puente: Writing Stories and Code
           </h1>
           <p className="lead text-center">
-            Born in New York, but raised in China and Japan, Charlie grew up
-            around people as diverse as the cultures and places he experienced.
-            Combined with a family background in science, medicine, technology,
-            and old fashioned storytelling, Charlie developed a passion for
-            stories that explored the boundaries of what human ingenuity, grit,
-            and wanderlust could accomplish. In addition to writing long and
-            short fiction, Charlie retains his childhood love of travel, drawn
-            to places that may be on the verge of irreversible change.
+            Born in New York, but raised in China and Japan, I grew up around
+            people as diverse as the cultures and places I experienced. With a
+            family background in science, medicine, engineering, and old
+            fashioned storytelling, I love learning and implementing new
+            technology as much as I enjoy writing about it.
           </p>
           <p className="lead text-center">
             After graduating from Columbia University's School of Engineering
-            coding bootcamp, Charlie now enjoys writing for both machine and
-            human audiences.
+            coding bootcamp, I work as a Full Stack Web Developer specializing
+            in the MERN stack. Feel free to browse my work, or get in touch with me on LinkedIn!
           </p>
         </div>
       </div>
