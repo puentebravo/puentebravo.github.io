@@ -1,6 +1,14 @@
-import React from "react";
+import React, { useState } from "react";
+import Modal from "react-bootstrap/Modal"
+import resume from "../assets/documents/charliepuentecv.pdf";
 
 function ContactCard(props) {
+
+  const [showModal, setShow] = useState(false);
+
+  const processClose = () => setShow(false);
+  const handleShow = () => setShow(true);
+
   return (
     <div className="container">
       <div className="row d-flex justify-content-center">
@@ -34,7 +42,18 @@ function ContactCard(props) {
             <p className="lead">
               Looking for a quick, to the point summary? Grab my resume below:
             </p>
-            <a className="btn btn-warning cardBtn" href="./documents/charliepuentecv.pdf">CV Download (PDF)</a>
+            <button className="btn btn-warning cardBtn" onClick={handleShow}>CV Download (PDF)</button>
+            <Modal show={showModal} onHide={processClose} {...props} size="lg" centered>
+              <Modal.Header>
+                <Modal.Title><h3>Charlie's Resume</h3></Modal.Title>
+              </Modal.Header>
+              <Modal.Body>
+              <embed src={resume} width="100%" height="800px" />
+              </Modal.Body>
+              <Modal.Footer>
+                <button className="btn btn-warning cardBtn" onClick={processClose}>Close</button>
+              </Modal.Footer>
+            </Modal>
           </div>
         </div>
       </div>
