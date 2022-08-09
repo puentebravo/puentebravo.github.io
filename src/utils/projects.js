@@ -5,7 +5,7 @@ const projectList = [
     img: "./images/Squall.gif",
     deployed: "https://puentebravo.github.io/Squall/",
     description:
-      "Travel is complex, stressful, and unpredictable, and that's before taking into account what the weather will be once you reach your destination. Squall was designed to take some of the guesswork out of that equation, enabling a traveler on the go to easily see detailed current conditions in any city of their choosing, as well as a five day forecast detailing temperature, humidity, and real feel. Utilizing the openweathermap API and built using dynamically rendered HTML, JQUERY, and Bootstrap, Squall is built to have a low data footprint, and to be as responsive as possible to different devices.",
+      "Travel is complex, stressful, and unpredictable, and that's before taking into account what the weather will be once you reach your destination. Squall was designed to take some of the guesswork out of that equation, enabling a traveler on the go to easily see detailed current conditions in any city of their choosing, as well as a five day forecast detailing temperature, humidity, and real feel. Utilizing the openweathermap API and built using dynamically rendered HTML, JQUERY, and Bootstrap, Squall is built to have a low data footprint, and to be as responsive as possible to different devices. New Version coming soon!",
     code: "HTML/CSS/Javascript/Bootstrap/JQUERY/JSON",
   },
   {
