@@ -44,13 +44,13 @@ function ContactCard(props) {
             </p>
             <button className="btn btn-warning cardBtn" onClick={handleShow}>CV Download (PDF)</button>
             <Modal show={showModal} onHide={processClose} {...props} size="lg" centered>
-              <Modal.Header>
+              <Modal.Header className="bg-dark text-white">
                 <Modal.Title><h3>Charlie's Resume</h3></Modal.Title>
               </Modal.Header>
-              <Modal.Body>
+              <Modal.Body className="bg-dark">
               <embed src={resume} width="100%" height="800px" />
               </Modal.Body>
-              <Modal.Footer>
+              <Modal.Footer className="bg-dark">
                 <button className="btn btn-warning cardBtn" onClick={processClose}>Close</button>
               </Modal.Footer>
             </Modal>
