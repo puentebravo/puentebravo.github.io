@@ -35,6 +35,3 @@ function ProjectCard({ projects, key}) {
 }
 
 export default ProjectCard; 
-
-// Github<i className="fas fa-globe-asia cIcon"></i>
-//  Deployed<i className="fab fa-github cIcon"></i>  
