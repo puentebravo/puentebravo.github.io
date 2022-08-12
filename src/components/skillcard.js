@@ -8,7 +8,7 @@ function SkillCard() {
           <div className="card-header">
             <p className="lead text-center text-white">Skills at a glance</p>
           </div>
-          <div className="card-body">
+          <div className="card-body mx-auto">
             <div className="row d-flex">
               <div className="col-2">
                 <i className="fab fa-html5 fa-3x sIcon" />
