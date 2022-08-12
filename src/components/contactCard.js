@@ -47,10 +47,11 @@ function ContactCard(props) {
               <Modal.Header className="bg-dark text-white">
                 <Modal.Title><h3>Charlie's Resume</h3></Modal.Title>
               </Modal.Header>
-              <Modal.Body className="bg-dark">
+              <Modal.Body className="bg-light">
               <embed src={resume} width="100%" height="800px" />
               </Modal.Body>
               <Modal.Footer className="bg-dark">
+                <a className="btn btn-warning cardBtn" href={resume}>Download</a>
                 <button className="btn btn-warning cardBtn" onClick={processClose}>Close</button>
               </Modal.Footer>
             </Modal>
