@@ -10,8 +10,8 @@ function Portfolio() {
     <div>
     <Header />
       <div className="container" id="anchorEl">
-        {projectList.map((projects, index) => (
-          <ProjectCard projects={projects} key={index} />
+        {projectList.map((projects) => (
+          <ProjectCard projects={projects} key={projects.id} />
         ))}
       </div>
     <Footer />
