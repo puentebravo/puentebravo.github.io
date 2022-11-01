@@ -1,11 +1,11 @@
 import React from "react";
 
 
-function ProjectCard({ projects, key}) {
+function ProjectCard({ projects }) {
   return (
-    <div className="container" id="anchorEl">
+    <div className="container" id="anchorEl" key={projects.id}>
       
-        <div className="row justify-content-center" key={key}>
+        <div className="row justify-content-center" >
           <div className="card bg-dark text-white col-lg p-4 border border-light">
             <img className="card-img" alt="site demo" src={projects.img} />
             <h5 className="card-title text-center">{projects.name}</h5>
