@@ -4,7 +4,7 @@ function SkillCard() {
   return (
     <div className="container">
       <div className="row justify-content-center">
-        <div className="card bg-dark text-white col-lg border border-light">
+        <div className="card bg-dark text-white col-lg">
           <div className="card-header">
             <p className="lead text-center text-white">Skills at a glance</p>
           </div>

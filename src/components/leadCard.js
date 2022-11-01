@@ -5,7 +5,7 @@ function LeadCard() {
   return (
     <div className="container">
       <div className="row">
-        <div className="card bg-dark text-white col-lg border border-light">
+        <div className="card bg-dark text-white col-lg">
           <img
             className="img-fluid mx-auto img-thumbnail mt-2"
             src={Galapagos}
