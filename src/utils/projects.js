@@ -1,5 +1,6 @@
 const projectList = [
   {
+    id: 1,
     name: "Squall",
     github: "https://github.com/puentebravo/Squall",
     img: "./images/Squall.gif",
@@ -9,6 +10,7 @@ const projectList = [
     code: "HTML/CSS/Javascript/Bootstrap/JQUERY/JSON",
   },
   {
+    id: 2,
     name: "KeyGen 2.0",
     github: "https://github.com/puentebravo/KeyGen-2.0",
     img: "./images/keygen.png",
@@ -18,6 +20,7 @@ const projectList = [
     code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
   },
   {
+    id: 3,
     name: "TCell",
     github: "https://github.com/puentebravo/TCell",
     img: "./images/Tcell.png",
@@ -28,6 +31,7 @@ const projectList = [
     code: "HTML/CSS/Javascript/Bootstrap/Node.js/JSON/Inquirer/Jest",
   },
   {
+    id: 4,
     name: "From Dad To Bad",
     github: "https://github.com/puentebravo/project2",
     img: "./images/Dadabase.gif",
