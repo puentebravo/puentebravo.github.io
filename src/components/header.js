@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <div className="container.fluid">
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <Link className="navbar-brand" to="/">
+      <nav className="navbar navbar-expand-lg navbar-dark dark">
+        <Link className="navbar-brand text-flight" to="/">
           Charlie Puente
         </Link>
         <button
