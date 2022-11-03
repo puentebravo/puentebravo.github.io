@@ -9,7 +9,7 @@ function Portfolio() {
   return (
     <div>
     <Header />
-      <div className="container" id="anchorEl">
+      <div className="container" id="portArea">
         {projectList.map((projects) => (
           <ProjectCard projects={projects} key={projects.id}/>
         ))}
