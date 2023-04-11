@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9a4e3bd9.chunk.css",
-    "main.js": "/static/js/main.9da18c28.chunk.js",
-    "main.js.map": "/static/js/main.9da18c28.chunk.js.map",
+    "main.js": "/static/js/main.d5e659cb.chunk.js",
+    "main.js.map": "/static/js/main.d5e659cb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06b5035f.js",
     "runtime-main.js.map": "/static/js/runtime-main.06b5035f.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
@@ -14,13 +14,13 @@
     "static/js/2.fc3c78a3.chunk.js.LICENSE.txt": "/static/js/2.fc3c78a3.chunk.js.LICENSE.txt",
     "static/media/Galapagos.06a68b46.jpg": "/static/media/Galapagos.06a68b46.jpg",
     "static/media/App.css": "/static/media/aurora.d1d71a17.JPG",
-    "static/media/charliepuentecv.6df8531d.pdf": "/static/media/charliepuentecv.6df8531d.pdf"
+    "static/media/charliepuentecv.bdbec4b6.pdf": "/static/media/charliepuentecv.bdbec4b6.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.06b5035f.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.fc3c78a3.chunk.js",
     "static/css/main.9a4e3bd9.chunk.css",
-    "static/js/main.9da18c28.chunk.js"
+    "static/js/main.d5e659cb.chunk.js"
   ]
 }
