@@ -36,13 +36,13 @@ const projectList = [
   {
     id: 4,
     section: "mini3",
-    name: "From Dad To Bad",
-    github: "https://github.com/puentebravo/project2",
-    img: "./images/Dadabase.gif",
-    deployed: "https://aqueous-meadow-09339.herokuapp.com/",
+    name: "FarmFrame",
+    github: "https://github.com/puentebravo/FarmFrame",
+    img: "./images/farmframeScreen.png",
+    deployed: "https://farmframe.prouddune-432c391b.eastus2.azurecontainerapps.io",
     description:
-      "From Dad to Bad is your one stop shop for all things dad jokes, puns, and movie one liners. Whether it elicits laughter, tears, groaning, or a mixture of all three, From Dad to Bad has it all!",
-    code: "HTML/CSS/Handlebars/SQL/Sequelize/JavaScript/JSON/Bootstrap/Node.js/Express",
+      "Love Warframe, but not sure where to get that thing you need to build the other thing? FarmFrame is here to save the day. Powered by python and hooked directly into the WarFrame API, FarmFrame enables easy lookup of drop locations for nearly every item in the game, as well as information on warframes, weapons, and mods. Need more information? Each result also links to the wiki, so a deeper dive down the rabbit hole is never far away. Farm smarter, not harder!",
+    code: "Python/Flask/jinja2/Docker/HTML5/CSS3/JavaScript/Azure/NginX/",
   },
 ];
 
