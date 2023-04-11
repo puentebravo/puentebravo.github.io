@@ -17,7 +17,7 @@ function ProjectCard({ projects }) {
             <div className="row d-flex justify-content-center">
               <a
                 className="btn btn-ultra btn-ultra-glow col-lg-6 cardBtn"
-                href={projects.github}
+                href={projects.deployed}
               >
                 Deployed<i className="fas fa-globe-asia cIcon"></i>  
               </a>
@@ -25,7 +25,7 @@ function ProjectCard({ projects }) {
             <div className="row d-flex justify-content-center">
               <a
                 className="btn btn-ultra btn-ultra-glow col-lg-6 cardBtn"
-                href={projects.deployed}
+                href={projects.github}
               >
                 Github<i className="fab fa-github cIcon"></i>
               </a>
