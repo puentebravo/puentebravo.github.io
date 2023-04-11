@@ -1,6 +1,17 @@
 const projectList = [
   {
     id: 1,
+    section: "mini3",
+    name: "FarmFrame",
+    github: "https://github.com/puentebravo/FarmFrame",
+    img: "./images/farmframeScreen.png",
+    deployed: "https://farmframe.prouddune-432c391b.eastus2.azurecontainerapps.io",
+    description:
+      "Love Warframe, but not sure where to get that thing you need to build the other thing? FarmFrame is here to save the day. Powered by python and hooked directly into the WarFrame API, FarmFrame enables easy lookup of drop locations for nearly every item in the game, as well as information on warframes, weapons, and mods. Need more information? Each result also links to the wiki, so a deeper dive down the rabbit hole is never far away. Farm smarter, not harder!",
+    code: "Python/Flask/jinja2/Docker/HTML5/CSS3/JavaScript/Azure/NginX/",
+  },
+  {
+    id: 2,
     section: "main",
     name: "Squall",
     github: "https://github.com/puentebravo/Squall",
@@ -11,7 +22,7 @@ const projectList = [
     code: "HTML/CSS/Javascript/Bootstrap/JQUERY/JSON",
   },
   {
-    id: 2,
+    id: 3,
     section: "mini1",
     name: "KeyGen 2.0",
     github: "https://github.com/puentebravo/KeyGen-2.0",
@@ -22,7 +33,7 @@ const projectList = [
     code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
   },
   {
-    id: 3,
+    id: 4,
     section: "mini2",
     name: "TCell",
     github: "https://github.com/puentebravo/TCell",
@@ -32,17 +43,6 @@ const projectList = [
     description:
       "Powered by Node.js and Inquirer, TCELL is a Command Line Interface that allows teams to make a clean, professional organizational chart in minutes.",
     code: "HTML/CSS/Javascript/Bootstrap/Node.js/JSON/Inquirer/Jest",
-  },
-  {
-    id: 4,
-    section: "mini3",
-    name: "FarmFrame",
-    github: "https://github.com/puentebravo/FarmFrame",
-    img: "./images/farmframeScreen.png",
-    deployed: "https://farmframe.prouddune-432c391b.eastus2.azurecontainerapps.io",
-    description:
-      "Love Warframe, but not sure where to get that thing you need to build the other thing? FarmFrame is here to save the day. Powered by python and hooked directly into the WarFrame API, FarmFrame enables easy lookup of drop locations for nearly every item in the game, as well as information on warframes, weapons, and mods. Need more information? Each result also links to the wiki, so a deeper dive down the rabbit hole is never far away. Farm smarter, not harder!",
-    code: "Python/Flask/jinja2/Docker/HTML5/CSS3/JavaScript/Azure/NginX/",
   },
 ];
 
