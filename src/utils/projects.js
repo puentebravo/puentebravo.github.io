@@ -27,7 +27,7 @@ const projectList = [
     name: "KeyGen 2.0",
     github: "https://github.com/puentebravo/KeyGen-2.0",
     img: "./images/keyGen.png",
-    deployed: "https://charliepuente.com/Keygen-2.0",
+    deployed: "https://www.charliepuente.com/KeyGen-2.0/",
     description:
       "Security is paramount on the modern web, and using a different password for each site and account you use is almost universally considered a best practice. Creating a strong password for each, however, can be time consuming. KeyGen allows for the fast, easy creation of passwords of almost any desireable length in less than a second.",
     code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
