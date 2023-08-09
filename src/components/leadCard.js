@@ -20,6 +20,7 @@ function LeadCard() {
             Charlie Puente: Writing Stories and Code
           </h1>
           <p className="lead text-center text-bright">
+            
             Born in New York, but raised in China and Japan, I grew up around
             people as diverse as the cultures and places I experienced. With a
             family background in science, medicine, engineering, and old
@@ -27,7 +28,7 @@ function LeadCard() {
             technology as much as I enjoy writing about it.
           </p>
           <p className="lead text-center text-bright">
-            I'm a Full Stack developer specializing in TypeScript and Python, with an emphasis on bringing the power of generative AI to bear on solving everyday problems. Feel free to browse my work, or get in touch with me on LinkedIn!
+            I'm currently a Full Stack developer specializing in TypeScript and Python, with an emphasis on bringing the power of generative AI to bear on solving everyday problems. Feel free to browse my work, or get in touch with me on LinkedIn!
           </p>
         </div>
       </div>
