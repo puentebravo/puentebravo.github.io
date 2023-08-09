@@ -27,9 +27,7 @@ function LeadCard() {
             technology as much as I enjoy writing about it.
           </p>
           <p className="lead text-center text-bright">
-            After graduating from Columbia University's School of Engineering
-            coding bootcamp, I work as a Full Stack Web Developer specializing
-            in the MERN stack. Feel free to browse my work, or get in touch with me on LinkedIn!
+            I'm a Full Stack developer specializing in TypeScript and Python, with an emphasis on bringing the power of generative AI to bear on solving everyday problems. Feel free to browse my work, or get in touch with me on LinkedIn!
           </p>
         </div>
       </div>
