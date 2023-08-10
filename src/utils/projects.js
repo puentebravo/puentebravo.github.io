@@ -32,18 +32,6 @@ const projectList = [
       "Security is paramount on the modern web, and using a different password for each site and account you use is almost universally considered a best practice. Creating a strong password for each, however, can be time consuming. KeyGen allows for the fast, easy creation of secure passwords at the touch of a button, on any device.",
     code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
   },
-  {
-    id: 4,
-    section: "mini2",
-    name: "TCell",
-    github: "https://github.com/puentebravo/TCell",
-    img: "./images/Tcell.png",
-    deployed:
-      "https://drive.google.com/file/d/1QqLvRhAWo2A6tQVcAiTBpV7cEJaXLM4B/view",
-    description:
-      "Powered by Node.js and Inquirer, TCELL is a Command Line Interface that allows teams to make a clean, professional organizational chart in minutes.",
-    code: "HTML/CSS/Javascript/Bootstrap/Node.js/JSON/Inquirer/Jest",
-  },
 ];
 
 export default projectList;
