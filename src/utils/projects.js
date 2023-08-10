@@ -32,6 +32,17 @@ const projectList = [
       "Security is paramount on the modern web, and using a different password for each site and account you use is almost universally considered a best practice. Creating a strong password for each, however, can be time consuming. KeyGen allows for the fast, easy creation of secure passwords at the touch of a button, on any device.",
     code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
   },
+  {
+    id: 4,
+    section: "mini1",
+    name: "Trackit: Between Meeting Fitness",
+    github: "https://github.com/puentebravo/trackit",
+    img: "./images/trackIt.png",
+    deployed: "",
+    description:
+      "Currently in development:  Trackit is fitness for the busy. Have a few minutes between meetings? Before lunch? Just finished a task, and have some downtime before the next one? With Trackit, you can make the most of these small moments. Powered by Langchain and OpenAI, Trackit puts a fitness coach in your pocket, allowing you to blend exercise seamlessly into your day.",
+    code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
+  },
 ];
 
 export default projectList;
