@@ -7,7 +7,7 @@ function ProjectCard({ projects }) {
       
         <div className="row justify-content-center" >
           <div className="card dark col-lg p-4">
-            <img className="card-img" alt="site demo" src={projects.img} />
+            <img className="card-img align-self-center" alt="site demo" src={projects.img} />
             <h5 className="card-title text-center text-flight mt-3">{projects.name}</h5>
             <p className="card-text text-bright">{projects.description}</p>
             <p className="card-text text-silver text-center">
