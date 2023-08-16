@@ -41,7 +41,7 @@ const projectList = [
     deployed: "",
     description:
       "Currently in development:  Trackit is fitness for the busy. Have a few minutes between meetings? Before lunch? Just finished a task, and have some downtime before the next one? With Trackit, you can make the most of these small moments. Powered by Langchain and OpenAI, Trackit puts a fitness coach in your pocket, allowing you to blend exercise seamlessly into your day.",
-    code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
+    code: "LangChain/React/TypeScript/Express/Docker",
   },
 ];
 
