@@ -40,7 +40,7 @@ function ContactCard(props) {
           <br />
           <div className="card-footer text-center">
             <p className="lead">
-              Looking for a quick, to the point summary? Grab my resume below:
+              Looking for something you can take with you? Grab my resume below:
             </p>
             <button className="btn btn-ultra btn-ultra-glow cardBtn" onClick={handleShow}>CV Download (PDF)</button>
             <Modal show={showModal} onHide={processClose} {...props} size="lg" centered>
