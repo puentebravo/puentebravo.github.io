@@ -26,7 +26,7 @@
   Once on the website, you can view projects by clicking on their github and deployed buttons.
       
   ![Screenshot](src/assets/images/Screenshot.png)
-  ![Screenshot2](src/assets/images/Portscreenshot.png)
+ 
 
   ## Credits
       
@@ -52,4 +52,4 @@
 
   -----------
   
-  Copyright [2021] [Charlie Puente]
+  Copyright [2023] [Charlie Puente]

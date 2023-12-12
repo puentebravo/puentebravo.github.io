@@ -12,17 +12,6 @@ const projectList = [
   },
   {
     id: 2,
-    section: "main",
-    name: "Squall",
-    github: "https://github.com/puentebravo/Squall",
-    img: "./images/Squall.gif",
-    deployed: "https://puentebravo.github.io/Squall/",
-    description:
-      "Travel is complex, stressful, and unpredictable, and that's before taking into account what the weather will be once you reach your destination. Squall was designed to take some of the guesswork out of that equation, enabling a traveler on the go to easily see detailed current conditions in any city of their choosing, as well as a five day forecast detailing temperature, humidity, and real feel. Utilizing the openweathermap API and built using dynamically rendered HTML, JQUERY, and Bootstrap, Squall is built to have a low data footprint, and to be as responsive as possible to different devices. New Version coming soon!",
-    code: "HTML/CSS/Javascript/Bootstrap/JQUERY/JSON",
-  },
-  {
-    id: 3,
     section: "mini1",
     name: "KeyGen 2.0",
     github: "https://github.com/puentebravo/KeyGen-2.0",
@@ -33,12 +22,12 @@ const projectList = [
     code: "HTML/CSS/Javascript/Bootstrap/React.js/JSON",
   },
   {
-    id: 4,
+    id: 3,
     section: "mini1",
     name: "Trackit: Between Meeting Fitness",
     github: "https://github.com/puentebravo/trackit",
     img: "./images/trackIt.png",
-    deployed: "",
+    deployed: "https://trackit-8v3w.onrender.com",
     description:
       "Currently in development:  Trackit is fitness for the busy. Have a few minutes between meetings? Before lunch? Just finished a task, and have some downtime before the next one? With Trackit, you can make the most of these small moments. Powered by Langchain and OpenAI, Trackit puts a fitness coach in your pocket, allowing you to blend exercise seamlessly into your day.",
     code: "LangChain/React/TypeScript/Express/Docker",
