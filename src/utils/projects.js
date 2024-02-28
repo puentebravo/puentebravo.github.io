@@ -18,7 +18,7 @@ const projectList = [
     img: "./images/trackIt.png",
     deployed: "https://www.meetsweats.lol",
     description:
-      "Meetsweats is fitness for the busy. Have a few minutes between meetings? Before lunch? Just finished a task, and have some downtime before the next one? Make the most of these small moments. Powered by Langchain and OpenAI, Meetsweats puts a fitness coach in your pocket, allowing you to blend exercise seamlessly into your day.",
+      "Trackit is fitness for the busy. Have a few minutes between meetings? Before lunch? Just finished a task, and have some downtime before the next one? Make the most of these small moments. Powered by Langchain and OpenAI, Trackit puts a fitness coach in your pocket, allowing you to blend exercise seamlessly into your day.",
     code: "LangChain/React/TypeScript/Express/Docker",
   },
 ];
